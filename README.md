@@ -196,7 +196,7 @@ This MATLAB implementation uses pixel intensity differences to detect shot bound
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/video-shot-boundary-detection.git
+git clone https://github.com/prudvi1916/Video_Shot_Boundary_Detection.git
 
 # Navigate to the project directory
 cd video-shot-boundary-detection
@@ -240,15 +240,22 @@ To run the traditional methods:
 
 ---
 
-## Visualization Example
+## Conclusion and Future Work
 
-Create a folder named `Results` in the repository to store and visualize detected boundary images. This folder will contain:
+### Conclusion
 
-1. Processed frames highlighting shot boundaries.
-2. Plots showing the spikes in differences (for histogram and pixel methods).
+This project effectively demonstrated the application of both traditional and deep learning methods for video shot boundary detection. Traditional methods, such as histogram and pixel differences, provided efficient solutions for detecting abrupt transitions like cuts. On the other hand, deep learning methods (CNNs and RNNs) showcased their superiority in handling complex transitions and leveraging temporal dependencies for higher accuracy.
 
-To upload and visualize these images, you can:
+The results highlighted the strengths and limitations of each approach, paving the way for selecting suitable methods based on specific application requirements, such as computational efficiency or robustness to gradual transitions.
 
-- Use platforms like [Imgur](https://imgur.com) or [Google Drive](https://drive.google.com) for public sharing.
-- Add these images to a web page or presentation to showcase your findings.
+### Future Work
+
+Future efforts can focus on the following areas:
+
+1. **Hybrid Approaches:** Combining traditional and deep learning methods to achieve higher accuracy and efficiency, especially in scenarios with diverse transition types.
+2. **Real-Time Processing:** Optimizing deep learning models for real-time applications by reducing computational overhead.
+3. **Domain-Specific Applications:** Adapting the models for domain-specific tasks like sports analysis, surveillance, or movie editing.
+4. **Enhanced Dataset Diversity:** Expanding the dataset to include more varied and challenging transitions, ensuring robustness across different video genres and resolutions.
+
+
 
