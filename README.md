@@ -26,7 +26,11 @@ This repository demonstrates various methods for **Video Shot Boundary Detection
 
 ## Overview
 
-Shot boundary detection identifies the transitions between shots in a video. Accurate detection is essential for video editing, content summarization, and scene analysis. This project explores both traditional and deep learning approaches to achieve this.
+Shot boundary detection is the process of identifying the transitions between consecutive shots in a video. A 'shot' refers to an uninterrupted sequence of frames captured by a single camera. Transition types include abrupt changes (cuts) and gradual transitions (fades, dissolves). Accurate detection of these transitions is vital for tasks such as video editing, content summarization, video indexing, and scene analysis. This project explores both traditional and deep learning approaches to achieve reliable shot boundary detection. Accurate detection is essential for video editing, content summarization, and scene analysis. This project explores both traditional and deep learning approaches to achieve this.
+
+![Screenshot 2024-12-12 223423](https://github.com/user-attachments/assets/a8637eb3-6602-4588-bc24-cf36b4b1d480)
+
+![Screenshot 2024-12-12 223454](https://github.com/user-attachments/assets/2d92aef9-343a-4070-97d5-c6fb925d79fa)
 
 ---
 
