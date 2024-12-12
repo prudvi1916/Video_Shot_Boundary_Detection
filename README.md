@@ -129,7 +129,8 @@ This MATLAB implementation uses pixel intensity differences to detect shot bound
 ![Screenshot 2024-12-12 222733](https://github.com/user-attachments/assets/2980b70f-c39e-4e77-be1d-8abaf880a120)
 
    2.11.mp4
-   ![Screenshot 2024-12-12 222755](https://github.com/user-attachments/assets/842a1b03-320d-403f-83f9-b536971329ae)
+   
+![Screenshot 2024-12-12 222755](https://github.com/user-attachments/assets/842a1b03-320d-403f-83f9-b536971329ae)
 
 ![Screenshot 2024-12-12 222803](https://github.com/user-attachments/assets/e1d447b1-6834-4b1d-a41b-41c8991591ed)
 ![Screenshot 2024-12-12 222813](https://github.com/user-attachments/assets/3fa46410-1deb-4a0c-8679-eabc361398cc)
@@ -140,6 +141,17 @@ This MATLAB implementation uses pixel intensity differences to detect shot bound
   1. Use CNN features as input to the RNN to model temporal dependencies.
   2. Train the RNN to classify transitions and evaluate metrics.
   3. Display performance metrics including a graph showcasing **F1-Score** for `11.mp4`.
+- **Visualization:**
+  1.shot_test.mp4
+![Screenshot 2024-12-12 223007](https://github.com/user-attachments/assets/4b9a6538-898b-4eaf-9cc0-f498350e0532)
+
+![Screenshot 2024-12-12 223013](https://github.com/user-attachments/assets/ab949638-0f9e-4168-9467-2347bba3ed38)
+
+  2.11.mp4
+
+![Screenshot 2024-12-12 223026](https://github.com/user-attachments/assets/afbf1af3-3ba9-4667-bb72-ea0a6cb2150d)
+![Screenshot 2024-12-12 223031](https://github.com/user-attachments/assets/94df2abf-5497-4f47-a8d5-6f61108a3d93)
+
 
 ### Hardware Used
 
