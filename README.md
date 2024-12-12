@@ -122,7 +122,17 @@ This MATLAB implementation uses pixel intensity differences to detect shot bound
   3. Evaluate performance metrics, including Precision, Recall, and F1-Score.
 
 - **Visualization:**
-  Include a graph for `shot_test.mp4` showcasing **Recall**.
+  1.shot_test.mp4
+  
+![Screenshot 2024-12-12 222541](https://github.com/user-attachments/assets/9102c429-0681-44ec-929b-891cbf62bf8f)
+![Screenshot 2024-12-12 222549](https://github.com/user-attachments/assets/6ea12dbf-5788-4e65-8112-ca79c9533eba)
+![Screenshot 2024-12-12 222733](https://github.com/user-attachments/assets/2980b70f-c39e-4e77-be1d-8abaf880a120)
+
+   2.11.mp4
+   ![Screenshot 2024-12-12 222755](https://github.com/user-attachments/assets/842a1b03-320d-403f-83f9-b536971329ae)
+
+![Screenshot 2024-12-12 222803](https://github.com/user-attachments/assets/e1d447b1-6834-4b1d-a41b-41c8991591ed)
+![Screenshot 2024-12-12 222813](https://github.com/user-attachments/assets/3fa46410-1deb-4a0c-8679-eabc361398cc)
 
 #### 2. RNN-Based Results for `11.mp4`
 
