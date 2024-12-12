@@ -95,6 +95,7 @@ This MATLAB implementation detects shot boundaries by calculating the histogram 
   4. Identify major shot boundaries by detecting significant spikes in histogram difference values.
 
 - **Visualization:** The differences are plotted to visualize spikes, which correspond to shot boundaries. Red markers indicate detected transitions.
+![Screenshot 2024-12-12 222340](https://github.com/user-attachments/assets/090e1562-e0d5-480d-b6f1-8a90a0539fc9)
 
 ### Pixel Difference Method
 
