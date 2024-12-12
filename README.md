@@ -52,6 +52,8 @@ Shot boundary detection identifies the transitions between shots in a video. Acc
 
 - **Description:** Computes the pixel-wise intensity difference between frames.
 - **Implementation:** Calculates the absolute difference and thresholds significant changes.
+- 
+![Screenshot 2024-12-12 221841](https://github.com/user-attachments/assets/1e66672b-8188-43a4-9c7d-470c17dd6b8e)
 
 **Resources:**
 
