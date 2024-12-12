@@ -20,7 +20,7 @@ This repository demonstrates various methods for **Video Shot Boundary Detection
 5. [Results](#results)
 6. [Getting Started](#getting-started)
 7. [References](#references)
-8. [Visualization Example](#visualization-example)
+8. [Conclusion and Future Work](#Conclusion and Future Work)
 
 ---
 
