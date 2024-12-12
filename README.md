@@ -122,6 +122,7 @@ This MATLAB implementation uses pixel intensity differences to detect shot bound
   3. Evaluate performance metrics, including Precision, Recall, and F1-Score.
 
 - **Visualization:**
+  
   1.shot_test.mp4
   
 ![Screenshot 2024-12-12 222541](https://github.com/user-attachments/assets/9102c429-0681-44ec-929b-891cbf62bf8f)
@@ -142,6 +143,7 @@ This MATLAB implementation uses pixel intensity differences to detect shot bound
   2. Train the RNN to classify transitions and evaluate metrics.
   3. Display performance metrics including a graph showcasing **F1-Score** for `11.mp4`.
 - **Visualization:**
+  
   1.shot_test.mp4
 ![Screenshot 2024-12-12 223007](https://github.com/user-attachments/assets/4b9a6538-898b-4eaf-9cc0-f498350e0532)
 
