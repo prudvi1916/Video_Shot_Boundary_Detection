@@ -1,0 +1,1111 @@
+>> dl_cnn_ass1
+Training on single CPU.
+Initializing input data normalization.
+|========================================================================================|
+|  Epoch  |  Iteration  |  Time Elapsed  |  Mini-batch  |  Mini-batch  |  Base Learning  |
+|         |             |   (hh:mm:ss)   |   Accuracy   |     Loss     |      Rate       |
+|========================================================================================|
+|       1 |           1 |       00:00:07 |       56.25% |       0.8112 |      1.0000e-04 |
+|       2 |          50 |       00:00:22 |       56.25% |       0.7117 |      1.0000e-04 |
+|       4 |         100 |       00:00:36 |       50.00% |       1.2122 |      1.0000e-04 |
+|       5 |         150 |       00:00:51 |       87.50% |       0.3913 |      1.0000e-04 |
+|       7 |         200 |       00:01:05 |       56.25% |       0.8157 |      1.0000e-04 |
+|       8 |         250 |       00:01:19 |       31.25% |       1.2635 |      1.0000e-04 |
+|      10 |         300 |       00:01:33 |       43.75% |       1.5685 |      1.0000e-04 |
+|      11 |         350 |       00:01:47 |       56.25% |       0.6609 |      1.0000e-04 |
+|      13 |         400 |       00:02:01 |       50.00% |       1.1830 |      1.0000e-04 |
+|      14 |         450 |       00:02:14 |       43.75% |       1.1490 |      1.0000e-04 |
+|      16 |         500 |       00:02:28 |       62.50% |       0.6858 |      1.0000e-04 |
+|      17 |         550 |       00:02:42 |       68.75% |       0.5918 |      1.0000e-04 |
+|      19 |         600 |       00:02:55 |       62.50% |       0.6764 |      1.0000e-04 |
+|      20 |         650 |       00:03:09 |       43.75% |       1.2089 |      1.0000e-04 |
+|      20 |         660 |       00:03:12 |       50.00% |       0.7812 |      1.0000e-04 |
+|========================================================================================|
+Training finished: Max epochs completed.
+Frame 1: MSE = 19233.3066, SSIM = 5.6973e-06
+Frame 1: No shot boundary detected.
+Frame 2: MSE = 19235.4629, SSIM = 5.7091e-06
+Frame 2: No shot boundary detected.
+Frame 3: MSE = 19300.5996, SSIM = 5.535e-06
+Frame 3: No shot boundary detected.
+Frame 4: MSE = 19194.1406, SSIM = 5.501e-06
+Frame 4: No shot boundary detected.
+Frame 5: MSE = 19218.0723, SSIM = 5.6381e-06
+Frame 5: No shot boundary detected.
+Frame 6: MSE = 19311.6191, SSIM = 5.581e-06
+Frame 6: No shot boundary detected.
+Frame 7: MSE = 19206.9844, SSIM = 5.6123e-06
+Frame 7: No shot boundary detected.
+Frame 8: MSE = 19224.2617, SSIM = 5.5194e-06
+Frame 8: No shot boundary detected.
+Frame 9: MSE = 19302.6484, SSIM = 5.3483e-06
+Frame 9: No shot boundary detected.
+Frame 10: MSE = 19191.75, SSIM = 5.3655e-06
+Frame 10: No shot boundary detected.
+Frame 11: MSE = 19214.9473, SSIM = 5.4583e-06
+Frame 11: No shot boundary detected.
+Frame 12: MSE = 19308.7969, SSIM = 5.4801e-06
+Frame 12: No shot boundary detected.
+Frame 13: MSE = 19194.0508, SSIM = 5.5072e-06
+Frame 13: No shot boundary detected.
+Frame 14: MSE = 19221.7578, SSIM = 5.5103e-06
+Frame 14: No shot boundary detected.
+Frame 15: MSE = 19309.8125, SSIM = 5.4318e-06
+Frame 15: No shot boundary detected.
+Frame 16: MSE = 19196.2148, SSIM = 5.5187e-06
+Frame 16: No shot boundary detected.
+Frame 17: MSE = 19231.0117, SSIM = 5.6703e-06
+Frame 17: No shot boundary detected.
+Frame 18: MSE = 19316.748, SSIM = 5.562e-06
+Frame 18: No shot boundary detected.
+Frame 19: MSE = 19208.3086, SSIM = 5.5968e-06
+Frame 19: No shot boundary detected.
+Frame 20: MSE = 19236.375, SSIM = 5.6366e-06
+Frame 20: No shot boundary detected.
+Frame 21: MSE = 19327.4062, SSIM = 5.7007e-06
+Frame 21: No shot boundary detected.
+Frame 22: MSE = 19220.9141, SSIM = 5.7533e-06
+Frame 22: No shot boundary detected.
+Frame 23: MSE = 19256.7969, SSIM = 5.8871e-06
+Frame 23: No shot boundary detected.
+Frame 24: MSE = 19359.5059, SSIM = 5.9501e-06
+Frame 24: No shot boundary detected.
+Frame 25: MSE = 19253.8711, SSIM = 6.0256e-06
+Frame 25: No shot boundary detected.
+Frame 26: MSE = 19282.1641, SSIM = 6.0626e-06
+Frame 26: No shot boundary detected.
+Frame 27: MSE = 19365.0273, SSIM = 6.0378e-06
+Frame 27: No shot boundary detected.
+Frame 28: MSE = 19256.9258, SSIM = 6.1122e-06
+Frame 28: No shot boundary detected.
+Frame 29: MSE = 19277.1816, SSIM = 5.8978e-06
+Frame 29: No shot boundary detected.
+Frame 30: MSE = 19423.5664, SSIM = 6.2134e-06
+Frame 30: No shot boundary detected.
+Frame 31: MSE = 19382.0137, SSIM = 6.3356e-06
+Frame 31: No shot boundary detected.
+Frame 32: MSE = 19440.3965, SSIM = 6.2613e-06
+Frame 32: No shot boundary detected.
+Frame 33: MSE = 19330.7637, SSIM = 6.2785e-06
+Frame 33: No shot boundary detected.
+Frame 34: MSE = 19361.1387, SSIM = 6.4557e-06
+Frame 34: No shot boundary detected.
+Frame 35: MSE = 19450.541, SSIM = 6.4192e-06
+Frame 35: No shot boundary detected.
+Frame 36: MSE = 19344.6152, SSIM = 6.4409e-06
+Frame 36: No shot boundary detected.
+Frame 37: MSE = 19380.1836, SSIM = 6.4735e-06
+Frame 37: No shot boundary detected.
+Frame 38: MSE = 19468.6992, SSIM = 6.5448e-06
+Frame 38: No shot boundary detected.
+Frame 39: MSE = 19352.9062, SSIM = 6.5793e-06
+Frame 39: No shot boundary detected.
+Frame 40: MSE = 19390.6641, SSIM = 6.65e-06
+Frame 40: No shot boundary detected.
+Frame 41: MSE = 19479.0781, SSIM = 6.5922e-06
+Frame 41: No shot boundary detected.
+Frame 42: MSE = 19369.0176, SSIM = 6.6209e-06
+Frame 42: No shot boundary detected.
+Frame 43: MSE = 19404.3809, SSIM = 6.6831e-06
+Frame 43: No shot boundary detected.
+Frame 44: MSE = 19494.2344, SSIM = 6.7497e-06
+Frame 44: No shot boundary detected.
+Frame 45: MSE = 19384.0273, SSIM = 6.8091e-06
+Frame 45: No shot boundary detected.
+Frame 46: MSE = 19408.6504, SSIM = 6.9071e-06
+Frame 46: No shot boundary detected.
+Frame 47: MSE = 19494.6387, SSIM = 6.84e-06
+Frame 47: No shot boundary detected.
+Frame 48: MSE = 19384.1016, SSIM = 6.8889e-06
+Frame 48: No shot boundary detected.
+Frame 49: MSE = 19420.8516, SSIM = 6.8983e-06
+Frame 49: No shot boundary detected.
+Frame 50: MSE = 19515.5918, SSIM = 6.7562e-06
+Frame 50: No shot boundary detected.
+Frame 51: MSE = 19406.8359, SSIM = 6.8227e-06
+Frame 51: No shot boundary detected.
+Frame 52: MSE = 19427.2148, SSIM = 6.9235e-06
+Frame 52: No shot boundary detected.
+Frame 53: MSE = 19516.7754, SSIM = 7.0146e-06
+Frame 53: No shot boundary detected.
+Frame 54: MSE = 19390.1055, SSIM = 7.0232e-06
+Frame 54: No shot boundary detected.
+Frame 55: MSE = 19475.1582, SSIM = 6.8836e-06
+Frame 55: No shot boundary detected.
+Frame 56: MSE = 19521.3125, SSIM = 6.8357e-06
+Frame 56: No shot boundary detected.
+Frame 57: MSE = 19434.9824, SSIM = 6.9028e-06
+Frame 57: No shot boundary detected.
+Frame 58: MSE = 17647.0586, SSIM = 7.2764e-06
+Frame 58: No shot boundary detected.
+Frame 59: MSE = 13611.7598, SSIM = 9.0889e-06
+Frame 59: No shot boundary detected.
+Frame 60: MSE = 10238.209, SSIM = 1.1476e-05
+Frame 60: No shot boundary detected.
+Frame 61: MSE = 7321.1353, SSIM = 1.6225e-05
+Frame 61: No shot boundary detected.
+Frame 62: MSE = 5023.8936, SSIM = 2.2819e-05
+Frame 62: No shot boundary detected.
+Frame 63: MSE = 3137.0032, SSIM = 3.066e-05
+Frame 63: No shot boundary detected.
+Frame 64: MSE = 1783.5072, SSIM = 5.751e-05
+Frame 64: No shot boundary detected.
+Frame 65: MSE = 823.1779, SSIM = 0.00010532
+Frame 65: No shot boundary detected.
+Frame 66: MSE = 272.3057, SSIM = 0.00025796
+Frame 66: No shot boundary detected.
+Frame 67: MSE = 17.6321, SSIM = 0.00015244
+Frame 67: No shot boundary detected.
+Frame 68: MSE = 0.011918, SSIM = 0.98339
+Frame 68: Shot boundary detected (fade-out).
+Frame 69: MSE = 0.011918, SSIM = 0.98339
+Frame 69: Shot boundary detected (fade-out).
+Frame 70: MSE = 0.011918, SSIM = 0.98339
+Frame 70: Shot boundary detected (fade-out).
+Frame 71: MSE = 0.011918, SSIM = 0.98339
+Frame 71: Shot boundary detected (fade-out).
+Frame 72: MSE = 0.011918, SSIM = 0.98339
+Frame 72: Shot boundary detected (fade-out).
+Frame 73: MSE = 0.011918, SSIM = 0.98339
+Frame 73: Shot boundary detected (fade-out).
+Frame 74: MSE = 0.011918, SSIM = 0.98339
+Frame 74: Shot boundary detected (fade-out).
+Frame 75: MSE = 5.4313, SSIM = 0.029781
+Frame 75: No shot boundary detected.
+Frame 76: MSE = 54.9875, SSIM = 0.00066491
+Frame 76: No shot boundary detected.
+Frame 77: MSE = 132.6837, SSIM = 9.5475e-05
+Frame 77: No shot boundary detected.
+Frame 78: MSE = 249.9523, SSIM = 3.8238e-06
+Frame 78: No shot boundary detected.
+Frame 79: MSE = 418.8206, SSIM = 8.0949e-07
+Frame 79: No shot boundary detected.
+Frame 80: MSE = 596.1371, SSIM = 2.3493e-06
+Frame 80: No shot boundary detected.
+Frame 81: MSE = 865.6847, SSIM = 1.7289e-06
+Frame 81: No shot boundary detected.
+Frame 82: MSE = 1141.3802, SSIM = 1.2621e-06
+Frame 82: No shot boundary detected.
+Frame 83: MSE = 1357.5095, SSIM = 9.8684e-07
+Frame 83: No shot boundary detected.
+Frame 84: MSE = 1744.4478, SSIM = 8.3946e-07
+Frame 84: No shot boundary detected.
+Frame 85: MSE = 2027.2764, SSIM = 4.6917e-07
+Frame 85: No shot boundary detected.
+Frame 86: MSE = 2037.8999, SSIM = 4.0382e-07
+Frame 86: No shot boundary detected.
+Frame 87: MSE = 2036.8019, SSIM = 4.0355e-07
+Frame 87: No shot boundary detected.
+Frame 88: MSE = 2056.9021, SSIM = 4.7379e-07
+Frame 88: No shot boundary detected.
+Frame 89: MSE = 2050.5405, SSIM = 5.3187e-07
+Frame 89: No shot boundary detected.
+Frame 90: MSE = 2055.8647, SSIM = 5.3769e-07
+Frame 90: No shot boundary detected.
+Frame 91: MSE = 2045.8756, SSIM = 6.9988e-07
+Frame 91: No shot boundary detected.
+Frame 92: MSE = 2047.571, SSIM = 7.5675e-07
+Frame 92: No shot boundary detected.
+Frame 93: MSE = 2046.8217, SSIM = 7.6235e-07
+Frame 93: No shot boundary detected.
+Frame 94: MSE = 2057.8506, SSIM = 6.324e-07
+Frame 94: No shot boundary detected.
+Frame 95: MSE = 2038.5358, SSIM = 7.7705e-07
+Frame 95: No shot boundary detected.
+Frame 96: MSE = 2064.3838, SSIM = 3.4518e-07
+Frame 96: No shot boundary detected.
+Frame 97: MSE = 2061.5188, SSIM = 3.9712e-08
+Frame 97: No shot boundary detected.
+Frame 98: MSE = 2057.2048, SSIM = -2.1581e-07
+Frame 98: No shot boundary detected.
+Frame 99: MSE = 2055.9929, SSIM = -2.0327e-07
+Frame 99: No shot boundary detected.
+Frame 100: MSE = 2071.1228, SSIM = -8.5505e-07
+Frame 100: No shot boundary detected.
+Frame 101: MSE = 2079.9509, SSIM = -1.2073e-06
+Frame 101: No shot boundary detected.
+Frame 102: MSE = 2096.4236, SSIM = -1.5204e-06
+Frame 102: No shot boundary detected.
+Frame 103: MSE = 2077.3345, SSIM = -1.8967e-06
+Frame 103: No shot boundary detected.
+Frame 104: MSE = 2086.697, SSIM = -2.0154e-06
+Frame 104: No shot boundary detected.
+Frame 105: MSE = 2086.301, SSIM = -2.02e-06
+Frame 105: No shot boundary detected.
+Frame 106: MSE = 2114.0662, SSIM = -2.9231e-06
+Frame 106: No shot boundary detected.
+Frame 107: MSE = 2098.7505, SSIM = -3.18e-06
+Frame 107: No shot boundary detected.
+Frame 108: MSE = 2110.7437, SSIM = -3.2018e-06
+Frame 108: No shot boundary detected.
+Frame 109: MSE = 2123.5396, SSIM = -3.1958e-06
+Frame 109: No shot boundary detected.
+Frame 110: MSE = 2120.8081, SSIM = -2.8158e-06
+Frame 110: No shot boundary detected.
+Frame 111: MSE = 2119.2573, SSIM = -2.7562e-06
+Frame 111: No shot boundary detected.
+Frame 112: MSE = 2119.3281, SSIM = -2.7599e-06
+Frame 112: No shot boundary detected.
+Frame 113: MSE = 2141.342, SSIM = -2.8261e-06
+Frame 113: No shot boundary detected.
+Frame 114: MSE = 2152.3625, SSIM = -2.7584e-06
+Frame 114: No shot boundary detected.
+Frame 115: MSE = 2139.4785, SSIM = -2.477e-06
+Frame 115: No shot boundary detected.
+Frame 116: MSE = 2154.7002, SSIM = -2.2369e-06
+Frame 116: No shot boundary detected.
+Frame 117: MSE = 2140.9229, SSIM = -2.024e-06
+Frame 117: No shot boundary detected.
+Frame 118: MSE = 2140.9827, SSIM = -2.0231e-06
+Frame 118: No shot boundary detected.
+Frame 119: MSE = 2148.6274, SSIM = -1.9754e-06
+Frame 119: No shot boundary detected.
+Frame 120: MSE = 2162.5706, SSIM = -2.0471e-06
+Frame 120: No shot boundary detected.
+Frame 121: MSE = 2144.7163, SSIM = -1.989e-06
+Frame 121: No shot boundary detected.
+Frame 122: MSE = 2161.3628, SSIM = -1.9412e-06
+Frame 122: No shot boundary detected.
+Frame 123: MSE = 2142.2876, SSIM = -1.1549e-06
+Frame 123: No shot boundary detected.
+Frame 124: MSE = 2142.606, SSIM = -1.2224e-06
+Frame 124: No shot boundary detected.
+Frame 125: MSE = 2169.6719, SSIM = -8.8539e-07
+Frame 125: No shot boundary detected.
+Frame 126: MSE = 2171.6138, SSIM = -2.7597e-07
+Frame 126: No shot boundary detected.
+Frame 127: MSE = 2161.0217, SSIM = 1.473e-07
+Frame 127: No shot boundary detected.
+Frame 128: MSE = 2177.6309, SSIM = 1.8101e-07
+Frame 128: No shot boundary detected.
+Frame 129: MSE = 2172.5193, SSIM = 2.3493e-07
+Frame 129: No shot boundary detected.
+Frame 130: MSE = 2173.009, SSIM = 2.3487e-07
+Frame 130: No shot boundary detected.
+Frame 131: MSE = 2161.5581, SSIM = 1.4693e-07
+Frame 131: No shot boundary detected.
+Frame 132: MSE = 2165.0806, SSIM = -2.8308e-07
+Frame 132: No shot boundary detected.
+Frame 133: MSE = 2081.3896, SSIM = -6.293e-07
+Frame 133: No shot boundary detected.
+Frame 134: MSE = 1818.0499, SSIM = -1.6032e-06
+Frame 134: No shot boundary detected.
+Frame 135: MSE = 1524.7792, SSIM = -1.3458e-06
+Frame 135: No shot boundary detected.
+Frame 136: MSE = 1305.6893, SSIM = -1.6618e-06
+Frame 136: No shot boundary detected.
+Frame 137: MSE = 1089.5743, SSIM = -1.1431e-06
+Frame 137: No shot boundary detected.
+Frame 138: MSE = 913.2737, SSIM = -2.437e-06
+Frame 138: No shot boundary detected.
+Frame 139: MSE = 735.6033, SSIM = -1.9901e-06
+Frame 139: No shot boundary detected.
+Frame 140: MSE = 589.4088, SSIM = -5.178e-06
+Frame 140: No shot boundary detected.
+Frame 141: MSE = 443.0957, SSIM = -1.01e-05
+Frame 141: No shot boundary detected.
+Frame 142: MSE = 335.8487, SSIM = -1.0935e-05
+Frame 142: No shot boundary detected.
+Frame 143: MSE = 241.218, SSIM = -2.7103e-05
+Frame 143: No shot boundary detected.
+Frame 144: MSE = 167.8867, SSIM = -3.4863e-05
+Frame 144: No shot boundary detected.
+Frame 145: MSE = 97.034, SSIM = 9.3794e-07
+Frame 145: No shot boundary detected.
+Frame 146: MSE = 49.7461, SSIM = 0.0012853
+Frame 146: No shot boundary detected.
+Frame 147: MSE = 14.4903, SSIM = 0.014208
+Frame 147: No shot boundary detected.
+Frame 148: MSE = 0.011918, SSIM = 0.98339
+Frame 148: Shot boundary detected (fade-out).
+Frame 149: MSE = 0.011918, SSIM = 0.98339
+Frame 149: Shot boundary detected (fade-out).
+Frame 150: MSE = 0.011918, SSIM = 0.98339
+Frame 150: Shot boundary detected (fade-out).
+Frame 151: MSE = 18.1076, SSIM = 0.0095289
+Frame 151: No shot boundary detected.
+Frame 152: MSE = 116.2544, SSIM = -0.00028472
+Frame 152: No shot boundary detected.
+Frame 153: MSE = 283.8553, SSIM = -0.00017772
+Frame 153: No shot boundary detected.
+Frame 154: MSE = 530.8666, SSIM = -0.00011281
+Frame 154: No shot boundary detected.
+Frame 155: MSE = 879.0867, SSIM = -7.6453e-05
+Frame 155: No shot boundary detected.
+Frame 156: MSE = 1322.1758, SSIM = -6.1737e-05
+Frame 156: No shot boundary detected.
+Frame 157: MSE = 1894.6614, SSIM = -4.3363e-05
+Frame 157: No shot boundary detected.
+Frame 158: MSE = 2588.7688, SSIM = -3.0563e-05
+Frame 158: No shot boundary detected.
+Frame 159: MSE = 3372.6277, SSIM = -2.6045e-05
+Frame 159: No shot boundary detected.
+Frame 160: MSE = 4170.4155, SSIM = -2.0311e-05
+Frame 160: No shot boundary detected.
+Frame 161: MSE = 5230.0571, SSIM = -1.4886e-05
+Frame 161: No shot boundary detected.
+Frame 162: MSE = 6466.6855, SSIM = -1.2823e-05
+Frame 162: No shot boundary detected.
+Frame 163: MSE = 7842.2812, SSIM = -1.0426e-05
+Frame 163: No shot boundary detected.
+Frame 164: MSE = 9272.499, SSIM = -7.3389e-06
+Frame 164: No shot boundary detected.
+Frame 165: MSE = 10970.7881, SSIM = -6.2662e-06
+Frame 165: No shot boundary detected.
+Frame 166: MSE = 12311.0439, SSIM = -5.7688e-06
+Frame 166: No shot boundary detected.
+Frame 167: MSE = 12332.1582, SSIM = -5.7751e-06
+Frame 167: No shot boundary detected.
+Frame 168: MSE = 12328.8262, SSIM = -5.7878e-06
+Frame 168: No shot boundary detected.
+Frame 169: MSE = 12340.5605, SSIM = -5.7758e-06
+Frame 169: No shot boundary detected.
+Frame 170: MSE = 12346.668, SSIM = -5.7866e-06
+Frame 170: No shot boundary detected.
+Frame 171: MSE = 12331.5205, SSIM = -5.7817e-06
+Frame 171: No shot boundary detected.
+Frame 172: MSE = 12328.4756, SSIM = -5.7613e-06
+Frame 172: No shot boundary detected.
+Frame 173: MSE = 12335.2148, SSIM = -5.7622e-06
+Frame 173: No shot boundary detected.
+Frame 174: MSE = 12326.6201, SSIM = -5.7417e-06
+Frame 174: No shot boundary detected.
+Frame 175: MSE = 12328.6787, SSIM = -5.7414e-06
+Frame 175: No shot boundary detected.
+Frame 176: MSE = 12297.1875, SSIM = -5.7409e-06
+Frame 176: No shot boundary detected.
+Frame 177: MSE = 12332.6348, SSIM = -5.7491e-06
+Frame 177: No shot boundary detected.
+Frame 178: MSE = 12330.8066, SSIM = -5.7536e-06
+Frame 178: No shot boundary detected.
+Frame 179: MSE = 12328.4053, SSIM = -5.7384e-06
+Frame 179: No shot boundary detected.
+Frame 180: MSE = 12311.5781, SSIM = -5.7334e-06
+Frame 180: No shot boundary detected.
+Frame 181: MSE = 12308.6201, SSIM = -5.7452e-06
+Frame 181: No shot boundary detected.
+Frame 182: MSE = 12322.082, SSIM = -5.7506e-06
+Frame 182: No shot boundary detected.
+Frame 183: MSE = 12322.8555, SSIM = -5.7574e-06
+Frame 183: No shot boundary detected.
+Frame 184: MSE = 12303.4307, SSIM = -5.7593e-06
+Frame 184: No shot boundary detected.
+Frame 185: MSE = 12311.0625, SSIM = -5.7549e-06
+Frame 185: No shot boundary detected.
+Frame 186: MSE = 12291.4707, SSIM = -5.7469e-06
+Frame 186: No shot boundary detected.
+Frame 187: MSE = 12294.5391, SSIM = -5.7397e-06
+Frame 187: No shot boundary detected.
+Frame 188: MSE = 12321.1025, SSIM = -5.7551e-06
+Frame 188: No shot boundary detected.
+Frame 189: MSE = 12314.6016, SSIM = -5.7422e-06
+Frame 189: No shot boundary detected.
+Frame 190: MSE = 12306.998, SSIM = -5.7428e-06
+Frame 190: No shot boundary detected.
+Frame 191: MSE = 12304.9814, SSIM = -5.7359e-06
+Frame 191: No shot boundary detected.
+Frame 192: MSE = 12304.9707, SSIM = -5.7335e-06
+Frame 192: No shot boundary detected.
+Frame 193: MSE = 12325.3906, SSIM = -5.7465e-06
+Frame 193: No shot boundary detected.
+Frame 194: MSE = 12304.6934, SSIM = -5.7448e-06
+Frame 194: No shot boundary detected.
+Frame 195: MSE = 12317.332, SSIM = -5.7557e-06
+Frame 195: No shot boundary detected.
+Frame 196: MSE = 12297.0625, SSIM = -5.7518e-06
+Frame 196: No shot boundary detected.
+Frame 197: MSE = 12299.8594, SSIM = -5.746e-06
+Frame 197: No shot boundary detected.
+Frame 198: MSE = 12315.2559, SSIM = -5.7387e-06
+Frame 198: No shot boundary detected.
+Frame 199: MSE = 12332.3213, SSIM = -5.7431e-06
+Frame 199: No shot boundary detected.
+Frame 200: MSE = 12323.4268, SSIM = -5.7473e-06
+Frame 200: No shot boundary detected.
+Frame 201: MSE = 12318.7734, SSIM = -5.7464e-06
+Frame 201: No shot boundary detected.
+Frame 202: MSE = 12319.415, SSIM = -5.7486e-06
+Frame 202: No shot boundary detected.
+Frame 203: MSE = 12330.3867, SSIM = -5.7611e-06
+Frame 203: No shot boundary detected.
+Frame 204: MSE = 12318.3623, SSIM = -5.7557e-06
+Frame 204: No shot boundary detected.
+Frame 205: MSE = 12327.6904, SSIM = -5.7496e-06
+Frame 205: No shot boundary detected.
+Frame 206: MSE = 12308.3584, SSIM = -5.7669e-06
+Frame 206: No shot boundary detected.
+Frame 207: MSE = 12310.7383, SSIM = -5.7635e-06
+Frame 207: No shot boundary detected.
+Frame 208: MSE = 12315.292, SSIM = -5.7518e-06
+Frame 208: No shot boundary detected.
+Frame 209: MSE = 12322.3975, SSIM = -5.7459e-06
+Frame 209: No shot boundary detected.
+Frame 210: MSE = 12309.9385, SSIM = -5.7394e-06
+Frame 210: No shot boundary detected.
+Frame 211: MSE = 12304.8066, SSIM = -5.7498e-06
+Frame 211: No shot boundary detected.
+Frame 212: MSE = 12300.416, SSIM = -5.7481e-06
+Frame 212: No shot boundary detected.
+Frame 213: MSE = 11380.5156, SSIM = -5.9642e-06
+Frame 213: No shot boundary detected.
+Frame 214: MSE = 9719.1807, SSIM = -6.8321e-06
+Frame 214: No shot boundary detected.
+Frame 215: MSE = 8158.7661, SSIM = -9.1944e-06
+Frame 215: No shot boundary detected.
+Frame 216: MSE = 6767.0981, SSIM = -1.1627e-05
+Frame 216: No shot boundary detected.
+Frame 217: MSE = 5499.8145, SSIM = -1.3845e-05
+Frame 217: No shot boundary detected.
+Frame 218: MSE = 4425.1348, SSIM = -1.874e-05
+Frame 218: No shot boundary detected.
+Frame 219: MSE = 3466.7383, SSIM = -2.3706e-05
+Frame 219: No shot boundary detected.
+Frame 220: MSE = 2650.8833, SSIM = -2.9874e-05
+Frame 220: No shot boundary detected.
+Frame 221: MSE = 1929.4109, SSIM = -4.1649e-05
+Frame 221: No shot boundary detected.
+Frame 222: MSE = 1386.4463, SSIM = -6.1081e-05
+Frame 222: No shot boundary detected.
+Frame 223: MSE = 907.0377, SSIM = -7.213e-05
+Frame 223: No shot boundary detected.
+Frame 224: MSE = 565.144, SSIM = -0.00010588
+Frame 224: No shot boundary detected.
+Frame 225: MSE = 293.5392, SSIM = -0.00018717
+Frame 225: No shot boundary detected.
+Frame 226: MSE = 123.6554, SSIM = -0.00026546
+Frame 226: No shot boundary detected.
+Frame 227: MSE = 27.656, SSIM = -0.00047249
+Frame 227: No shot boundary detected.
+Frame 228: MSE = 0.011918, SSIM = 0.98339
+Frame 228: Shot boundary detected (fade-out).
+Frame 229: MSE = 0.011918, SSIM = 0.98339
+Frame 229: Shot boundary detected (fade-out).
+Frame 230: MSE = 0.011918, SSIM = 0.98339
+Frame 230: Shot boundary detected (fade-out).
+Frame 231: MSE = 70.9829, SSIM = -4.2033e-05
+Frame 231: No shot boundary detected.
+Frame 232: MSE = 220.2511, SSIM = -6.754e-06
+Frame 232: No shot boundary detected.
+Frame 233: MSE = 434.531, SSIM = -1.7635e-05
+Frame 233: No shot boundary detected.
+Frame 234: MSE = 752.5785, SSIM = -6.6797e-06
+Frame 234: No shot boundary detected.
+Frame 235: MSE = 1174.2521, SSIM = -6.7367e-06
+Frame 235: No shot boundary detected.
+Frame 236: MSE = 2057.1772, SSIM = -3.2795e-06
+Frame 236: No shot boundary detected.
+Frame 237: MSE = 2797.2092, SSIM = -2.5108e-06
+Frame 237: No shot boundary detected.
+Frame 238: MSE = 3691.1152, SSIM = 2.6911e-07
+Frame 238: No shot boundary detected.
+Frame 239: MSE = 4604.6694, SSIM = -9.9985e-07
+Frame 239: No shot boundary detected.
+Frame 240: MSE = 5745.1396, SSIM = -8.9145e-07
+Frame 240: No shot boundary detected.
+Frame 241: MSE = 7076.3813, SSIM = 1.2931e-07
+Frame 241: No shot boundary detected.
+Frame 242: MSE = 8353.4668, SSIM = -5.4461e-07
+Frame 242: No shot boundary detected.
+Frame 243: MSE = 9997.1279, SSIM = 3.8813e-07
+Frame 243: No shot boundary detected.
+Frame 244: MSE = 11667.4736, SSIM = -1.6314e-07
+Frame 244: No shot boundary detected.
+Frame 245: MSE = 12650.6367, SSIM = -5.3075e-07
+Frame 245: No shot boundary detected.
+Frame 246: MSE = 12622.3672, SSIM = -4.0792e-07
+Frame 246: No shot boundary detected.
+Frame 247: MSE = 12598.7998, SSIM = -5.7858e-07
+Frame 247: No shot boundary detected.
+Frame 248: MSE = 12597.0693, SSIM = -4.8669e-07
+Frame 248: No shot boundary detected.
+Frame 249: MSE = 12611.96, SSIM = -4.303e-07
+Frame 249: No shot boundary detected.
+Frame 250: MSE = 12443.7041, SSIM = -2.0258e-07
+Frame 250: No shot boundary detected.
+Frame 251: MSE = 12541.042, SSIM = -5.6493e-08
+Frame 251: No shot boundary detected.
+Frame 252: MSE = 12442.3096, SSIM = -7.9551e-08
+Frame 252: No shot boundary detected.
+Frame 253: MSE = 12442.4248, SSIM = 8.8228e-09
+Frame 253: No shot boundary detected.
+Frame 254: MSE = 12471.1953, SSIM = 5.0404e-07
+Frame 254: No shot boundary detected.
+Frame 255: MSE = 12438.6172, SSIM = 5.532e-07
+Frame 255: No shot boundary detected.
+Frame 256: MSE = 12382.2852, SSIM = 4.6375e-08
+Frame 256: No shot boundary detected.
+Frame 257: MSE = 12324.4355, SSIM = 1.4411e-07
+Frame 257: No shot boundary detected.
+Frame 258: MSE = 12323.1318, SSIM = 9.3739e-08
+Frame 258: No shot boundary detected.
+Frame 259: MSE = 12331.0371, SSIM = 3.7461e-07
+Frame 259: No shot boundary detected.
+Frame 260: MSE = 12147.5957, SSIM = 5.169e-07
+Frame 260: No shot boundary detected.
+Frame 261: MSE = 12162.4717, SSIM = 5.92e-07
+Frame 261: No shot boundary detected.
+Frame 262: MSE = 12257.0332, SSIM = 5.7403e-07
+Frame 262: No shot boundary detected.
+Frame 263: MSE = 12203.4434, SSIM = 7.1602e-07
+Frame 263: No shot boundary detected.
+Frame 264: MSE = 12197.6201, SSIM = 5.994e-07
+Frame 264: No shot boundary detected.
+Frame 265: MSE = 12059.6621, SSIM = 4.7078e-07
+Frame 265: No shot boundary detected.
+Frame 266: MSE = 12059.3105, SSIM = 4.0477e-07
+Frame 266: No shot boundary detected.
+Frame 267: MSE = 12134.2432, SSIM = 3.4673e-07
+Frame 267: No shot boundary detected.
+Frame 268: MSE = 12135.1631, SSIM = 2.5353e-07
+Frame 268: No shot boundary detected.
+Frame 269: MSE = 12037.7598, SSIM = 3.4316e-07
+Frame 269: No shot boundary detected.
+Frame 270: MSE = 11965.082, SSIM = 3.2741e-07
+Frame 270: No shot boundary detected.
+Frame 271: MSE = 11962.4551, SSIM = 2.6243e-07
+Frame 271: No shot boundary detected.
+Frame 272: MSE = 12030.7979, SSIM = 2.479e-07
+Frame 272: No shot boundary detected.
+Frame 273: MSE = 11919.2207, SSIM = 1.5545e-07
+Frame 273: No shot boundary detected.
+Frame 274: MSE = 11930.0342, SSIM = 1.0724e-07
+Frame 274: No shot boundary detected.
+Frame 275: MSE = 11780.2822, SSIM = 2.6074e-08
+Frame 275: No shot boundary detected.
+Frame 276: MSE = 11776.8838, SSIM = 3.7341e-08
+Frame 276: No shot boundary detected.
+Frame 277: MSE = 11859.6826, SSIM = -1.3045e-07
+Frame 277: No shot boundary detected.
+Frame 278: MSE = 11869.6016, SSIM = -1.5768e-07
+Frame 278: No shot boundary detected.
+Frame 279: MSE = 11780.6641, SSIM = -2.4118e-07
+Frame 279: No shot boundary detected.
+Frame 280: MSE = 11702.6924, SSIM = -2.6334e-07
+Frame 280: No shot boundary detected.
+Frame 281: MSE = 11700.3613, SSIM = -3.1045e-07
+Frame 281: No shot boundary detected.
+Frame 282: MSE = 11772.1074, SSIM = -5.4872e-08
+Frame 282: No shot boundary detected.
+Frame 283: MSE = 11671.1865, SSIM = -2.2321e-07
+Frame 283: No shot boundary detected.
+Frame 284: MSE = 11677.7178, SSIM = 5.3926e-07
+Frame 284: No shot boundary detected.
+Frame 285: MSE = 11555.1904, SSIM = 1.8003e-07
+Frame 285: No shot boundary detected.
+Frame 286: MSE = 11557.1836, SSIM = 1.801e-07
+Frame 286: No shot boundary detected.
+Frame 287: MSE = 11596.3887, SSIM = 5.1113e-07
+Frame 287: No shot boundary detected.
+Frame 288: MSE = 11539.5547, SSIM = -1.0932e-08
+Frame 288: No shot boundary detected.
+Frame 289: MSE = 11498.1416, SSIM = 1.2136e-07
+Frame 289: No shot boundary detected.
+Frame 290: MSE = 11403.0156, SSIM = 3.2811e-07
+Frame 290: No shot boundary detected.
+Frame 291: MSE = 11401.5703, SSIM = 4.8702e-07
+Frame 291: No shot boundary detected.
+Frame 292: MSE = 11469.6816, SSIM = 7.9745e-07
+Frame 292: No shot boundary detected.
+Frame 293: MSE = 11397.8486, SSIM = 9.8657e-07
+Frame 293: No shot boundary detected.
+Frame 294: MSE = 11399.7861, SSIM = 9.7592e-07
+Frame 294: No shot boundary detected.
+Frame 295: MSE = 11275.4805, SSIM = 6.6763e-07
+Frame 295: No shot boundary detected.
+Frame 296: MSE = 9763.1475, SSIM = 7.8037e-07
+Frame 296: No shot boundary detected.
+Frame 297: MSE = 7609.6157, SSIM = 1.1759e-06
+Frame 297: No shot boundary detected.
+Frame 298: MSE = 5864.0259, SSIM = 1.6465e-06
+Frame 298: No shot boundary detected.
+Frame 299: MSE = 4185.9844, SSIM = 2.1608e-06
+Frame 299: No shot boundary detected.
+Frame 300: MSE = 2855.0703, SSIM = 4.595e-06
+Frame 300: No shot boundary detected.
+Frame 301: MSE = 1872.3599, SSIM = 5.5691e-06
+Frame 301: No shot boundary detected.
+Frame 302: MSE = 1102.6232, SSIM = 7.9721e-06
+Frame 302: No shot boundary detected.
+Frame 303: MSE = 565.051, SSIM = 2.3275e-05
+Frame 303: No shot boundary detected.
+Frame 304: MSE = 213.3955, SSIM = 6.3986e-05
+Frame 304: No shot boundary detected.
+Frame 305: MSE = 31.1528, SSIM = 0.00026003
+Frame 305: No shot boundary detected.
+Frame 306: MSE = 0.011918, SSIM = 0.98339
+Frame 306: Shot boundary detected (fade-out).
+Frame 307: MSE = 0.011918, SSIM = 0.98339
+Frame 307: Shot boundary detected (fade-out).
+Frame 308: MSE = 0.011918, SSIM = 0.98339
+Frame 308: Shot boundary detected (fade-out).
+Frame 309: MSE = 0.011918, SSIM = 0.98339
+Frame 309: Shot boundary detected (fade-out).
+Frame 310: MSE = 0.011918, SSIM = 0.98339
+Frame 310: Shot boundary detected (fade-out).
+Frame 311: MSE = 0.011918, SSIM = 0.98339
+Frame 311: Shot boundary detected (fade-out).
+Frame 312: MSE = 0.011918, SSIM = 0.98339
+Frame 312: Shot boundary detected (fade-out).
+Frame 313: MSE = 8.3129, SSIM = 0.013925
+Frame 313: No shot boundary detected.
+Frame 314: MSE = 85.4973, SSIM = -5.4481e-05
+Frame 314: No shot boundary detected.
+Frame 315: MSE = 225.3658, SSIM = -2.99e-05
+Frame 315: No shot boundary detected.
+Frame 316: MSE = 413.7704, SSIM = -1.7939e-05
+Frame 316: No shot boundary detected.
+Frame 317: MSE = 833.8045, SSIM = -5.0794e-06
+Frame 317: No shot boundary detected.
+Frame 318: MSE = 1266.615, SSIM = -2.5861e-06
+Frame 318: No shot boundary detected.
+Frame 319: MSE = 1767.2638, SSIM = -2.8896e-06
+Frame 319: No shot boundary detected.
+Frame 320: MSE = 2370.7021, SSIM = -1.9708e-06
+Frame 320: No shot boundary detected.
+Frame 321: MSE = 3007.0281, SSIM = -1.3683e-06
+Frame 321: No shot boundary detected.
+Frame 322: MSE = 3843.0315, SSIM = -1.3734e-06
+Frame 322: No shot boundary detected.
+Frame 323: MSE = 4747.291, SSIM = -1.0956e-06
+Frame 323: No shot boundary detected.
+Frame 324: MSE = 5035.4131, SSIM = -1.1639e-06
+Frame 324: No shot boundary detected.
+Frame 325: MSE = 5044.4785, SSIM = -1.1072e-06
+Frame 325: No shot boundary detected.
+Frame 326: MSE = 5090.8345, SSIM = -1.6805e-06
+Frame 326: No shot boundary detected.
+Frame 327: MSE = 5089.4531, SSIM = -1.291e-06
+Frame 327: No shot boundary detected.
+Frame 328: MSE = 5072.7046, SSIM = -1.447e-06
+Frame 328: No shot boundary detected.
+Frame 329: MSE = 5074.8877, SSIM = -1.5582e-06
+Frame 329: No shot boundary detected.
+Frame 330: MSE = 5063.6455, SSIM = -1.3785e-06
+Frame 330: No shot boundary detected.
+Frame 331: MSE = 5065.2056, SSIM = -1.1887e-06
+Frame 331: No shot boundary detected.
+Frame 332: MSE = 5057.7046, SSIM = -1.2349e-06
+Frame 332: No shot boundary detected.
+Frame 333: MSE = 5048.4385, SSIM = -1.4415e-06
+Frame 333: No shot boundary detected.
+Frame 334: MSE = 5067.7676, SSIM = -1.5786e-06
+Frame 334: No shot boundary detected.
+Frame 335: MSE = 5080.7427, SSIM = -1.4484e-06
+Frame 335: No shot boundary detected.
+Frame 336: MSE = 5080.2773, SSIM = -1.4444e-06
+Frame 336: No shot boundary detected.
+Frame 337: MSE = 5064.6118, SSIM = -1.3729e-06
+Frame 337: No shot boundary detected.
+Frame 338: MSE = 5080.335, SSIM = -1.325e-06
+Frame 338: No shot boundary detected.
+Frame 339: MSE = 5092.9917, SSIM = -1.3978e-06
+Frame 339: No shot boundary detected.
+Frame 340: MSE = 5093.7812, SSIM = -1.3276e-06
+Frame 340: No shot boundary detected.
+Frame 341: MSE = 5090.0845, SSIM = -1.3318e-06
+Frame 341: No shot boundary detected.
+Frame 342: MSE = 5094.9092, SSIM = -1.2501e-06
+Frame 342: No shot boundary detected.
+Frame 343: MSE = 5088.7666, SSIM = -1.1401e-06
+Frame 343: No shot boundary detected.
+Frame 344: MSE = 5087.4214, SSIM = -1.2934e-06
+Frame 344: No shot boundary detected.
+Frame 345: MSE = 5097.2124, SSIM = -1.3534e-06
+Frame 345: No shot boundary detected.
+Frame 346: MSE = 5086.8647, SSIM = -1.4466e-06
+Frame 346: No shot boundary detected.
+Frame 347: MSE = 5108.1597, SSIM = -1.5649e-06
+Frame 347: No shot boundary detected.
+Frame 348: MSE = 5106.1904, SSIM = -1.3349e-06
+Frame 348: No shot boundary detected.
+Frame 349: MSE = 5102.7847, SSIM = -1.5881e-06
+Frame 349: No shot boundary detected.
+Frame 350: MSE = 5075.2485, SSIM = -1.5586e-06
+Frame 350: No shot boundary detected.
+Frame 351: MSE = 5056.3271, SSIM = -1.8324e-06
+Frame 351: No shot boundary detected.
+Frame 352: MSE = 5039.2056, SSIM = -1.4328e-06
+Frame 352: No shot boundary detected.
+Frame 353: MSE = 5055.2959, SSIM = -1.5642e-06
+Frame 353: No shot boundary detected.
+Frame 354: MSE = 5109.728, SSIM = -1.5924e-06
+Frame 354: No shot boundary detected.
+Frame 355: MSE = 5091.0674, SSIM = -1.35e-06
+Frame 355: No shot boundary detected.
+Frame 356: MSE = 5079.7798, SSIM = -6.9618e-07
+Frame 356: No shot boundary detected.
+Frame 357: MSE = 5093.3354, SSIM = -1.0226e-06
+Frame 357: No shot boundary detected.
+Frame 358: MSE = 5108.79, SSIM = -1.3738e-06
+Frame 358: No shot boundary detected.
+Frame 359: MSE = 5083.5098, SSIM = -1.3506e-06
+Frame 359: No shot boundary detected.
+Frame 360: MSE = 5067.811, SSIM = -1.3043e-06
+Frame 360: No shot boundary detected.
+Frame 361: MSE = 5077.3193, SSIM = -1.3721e-06
+Frame 361: No shot boundary detected.
+Frame 362: MSE = 5081.4551, SSIM = -1.5726e-06
+Frame 362: No shot boundary detected.
+Frame 363: MSE = 5073.9199, SSIM = -1.5363e-06
+Frame 363: No shot boundary detected.
+Frame 364: MSE = 5091.8682, SSIM = -1.312e-06
+Frame 364: No shot boundary detected.
+Frame 365: MSE = 5111.6382, SSIM = -1.2484e-06
+Frame 365: No shot boundary detected.
+Frame 366: MSE = 5130.8677, SSIM = -1.2186e-06
+Frame 366: No shot boundary detected.
+Frame 367: MSE = 5104.9141, SSIM = -1.3371e-06
+Frame 367: No shot boundary detected.
+Frame 368: MSE = 5112.3672, SSIM = -1.4229e-06
+Frame 368: No shot boundary detected.
+Frame 369: MSE = 5100.8403, SSIM = -1.5073e-06
+Frame 369: No shot boundary detected.
+Frame 370: MSE = 5086.8203, SSIM = -1.3974e-06
+Frame 370: No shot boundary detected.
+Frame 371: MSE = 5048.9248, SSIM = -1.5025e-06
+Frame 371: No shot boundary detected.
+Frame 372: MSE = 5031.3599, SSIM = -1.2987e-06
+Frame 372: No shot boundary detected.
+Frame 373: MSE = 5012.5898, SSIM = -1.4635e-06
+Frame 373: No shot boundary detected.
+Frame 374: MSE = 5012.7729, SSIM = -1.5896e-06
+Frame 374: No shot boundary detected.
+Frame 375: MSE = 4586.019, SSIM = -1.5092e-06
+Frame 375: No shot boundary detected.
+Frame 376: MSE = 3754.4902, SSIM = -1.5439e-06
+Frame 376: No shot boundary detected.
+Frame 377: MSE = 2949.0535, SSIM = -1.9966e-06
+Frame 377: No shot boundary detected.
+Frame 378: MSE = 2278.2542, SSIM = -2.5702e-06
+Frame 378: No shot boundary detected.
+Frame 379: MSE = 1663.3438, SSIM = -4.7281e-06
+Frame 379: No shot boundary detected.
+Frame 380: MSE = 1203.3514, SSIM = -4.8214e-06
+Frame 380: No shot boundary detected.
+Frame 381: MSE = 809.3338, SSIM = -9.0425e-06
+Frame 381: No shot boundary detected.
+Frame 382: MSE = 509.8866, SSIM = -1.1983e-05
+Frame 382: No shot boundary detected.
+Frame 383: MSE = 271.3233, SSIM = -3.0297e-05
+Frame 383: No shot boundary detected.
+Frame 384: MSE = 115.5147, SSIM = -3.8916e-05
+Frame 384: No shot boundary detected.
+Frame 385: MSE = 25.7732, SSIM = 0.0021667
+Frame 385: No shot boundary detected.
+Frame 386: MSE = 0.011918, SSIM = 0.98339
+Frame 386: Shot boundary detected (fade-out).
+Frame 387: MSE = 0.011918, SSIM = 0.98339
+Frame 387: Shot boundary detected (fade-out).
+Frame 388: MSE = 0.011918, SSIM = 0.98339
+Frame 388: Shot boundary detected (fade-out).
+Frame 389: MSE = 0.011918, SSIM = 0.98339
+Frame 389: Shot boundary detected (fade-out).
+Frame 390: MSE = 0.011918, SSIM = 0.98339
+Frame 390: Shot boundary detected (fade-out).
+Frame 391: MSE = 0.011918, SSIM = 0.98339
+Frame 391: Shot boundary detected (fade-out).
+Frame 392: MSE = 3.5624, SSIM = 0.023516
+Frame 392: No shot boundary detected.
+Frame 393: MSE = 103.3608, SSIM = 0.00016526
+Frame 393: No shot boundary detected.
+Frame 394: MSE = 309.7723, SSIM = 7.3627e-05
+Frame 394: No shot boundary detected.
+Frame 395: MSE = 593.9925, SSIM = 3.5519e-05
+Frame 395: No shot boundary detected.
+Frame 396: MSE = 1022.3528, SSIM = 2.1088e-05
+Frame 396: No shot boundary detected.
+Frame 397: MSE = 1341.7513, SSIM = 1.7649e-05
+Frame 397: No shot boundary detected.
+Frame 398: MSE = 2033.7084, SSIM = 1.12e-05
+Frame 398: No shot boundary detected.
+Frame 399: MSE = 2927.2488, SSIM = 8.2175e-06
+Frame 399: No shot boundary detected.
+Frame 400: MSE = 3856.8762, SSIM = 5.6174e-06
+Frame 400: No shot boundary detected.
+Frame 401: MSE = 5058.4956, SSIM = 4.5763e-06
+Frame 401: No shot boundary detected.
+Frame 402: MSE = 6515.0225, SSIM = 3.4383e-06
+Frame 402: No shot boundary detected.
+Frame 403: MSE = 8003.8579, SSIM = 2.811e-06
+Frame 403: No shot boundary detected.
+Frame 404: MSE = 8496.3164, SSIM = 2.6632e-06
+Frame 404: No shot boundary detected.
+Frame 405: MSE = 8494.9111, SSIM = 2.6685e-06
+Frame 405: No shot boundary detected.
+Frame 406: MSE = 8553.4219, SSIM = 2.6523e-06
+Frame 406: No shot boundary detected.
+Frame 407: MSE = 8552.8086, SSIM = 2.6528e-06
+Frame 407: No shot boundary detected.
+Frame 408: MSE = 8588.9609, SSIM = 2.6768e-06
+Frame 408: No shot boundary detected.
+Frame 409: MSE = 8575.9297, SSIM = 2.6743e-06
+Frame 409: No shot boundary detected.
+Frame 410: MSE = 8600.5576, SSIM = 2.6914e-06
+Frame 410: No shot boundary detected.
+Frame 411: MSE = 8573.0469, SSIM = 2.7107e-06
+Frame 411: No shot boundary detected.
+Frame 412: MSE = 8617.0957, SSIM = 2.6947e-06
+Frame 412: No shot boundary detected.
+Frame 413: MSE = 8608.623, SSIM = 2.7635e-06
+Frame 413: No shot boundary detected.
+Frame 414: MSE = 8623.3838, SSIM = 2.7251e-06
+Frame 414: No shot boundary detected.
+Frame 415: MSE = 8594.7363, SSIM = 2.7467e-06
+Frame 415: No shot boundary detected.
+Frame 416: MSE = 8634.8516, SSIM = 2.7706e-06
+Frame 416: No shot boundary detected.
+Frame 417: MSE = 8620.082, SSIM = 2.761e-06
+Frame 417: No shot boundary detected.
+Frame 418: MSE = 8644.6748, SSIM = 2.7544e-06
+Frame 418: No shot boundary detected.
+Frame 419: MSE = 8622.6973, SSIM = 2.7712e-06
+Frame 419: No shot boundary detected.
+Frame 420: MSE = 8641.2529, SSIM = 2.8711e-06
+Frame 420: No shot boundary detected.
+Frame 421: MSE = 8650.0283, SSIM = 2.8885e-06
+Frame 421: No shot boundary detected.
+Frame 422: MSE = 8578.9053, SSIM = 3.1124e-06
+Frame 422: No shot boundary detected.
+Frame 423: MSE = 8546.1416, SSIM = 3.2439e-06
+Frame 423: No shot boundary detected.
+Frame 424: MSE = 8582.0762, SSIM = 3.2257e-06
+Frame 424: No shot boundary detected.
+Frame 425: MSE = 8633.4229, SSIM = 3.2248e-06
+Frame 425: No shot boundary detected.
+Frame 426: MSE = 8642.5361, SSIM = 3.2623e-06
+Frame 426: No shot boundary detected.
+Frame 427: MSE = 8602.5078, SSIM = 3.3557e-06
+Frame 427: No shot boundary detected.
+Frame 428: MSE = 8645.4717, SSIM = 3.3731e-06
+Frame 428: No shot boundary detected.
+Frame 429: MSE = 8694.6553, SSIM = 3.4864e-06
+Frame 429: No shot boundary detected.
+Frame 430: MSE = 8716.1924, SSIM = 3.3747e-06
+Frame 430: No shot boundary detected.
+Frame 431: MSE = 8674.0293, SSIM = 3.4006e-06
+Frame 431: No shot boundary detected.
+Frame 432: MSE = 8718.2305, SSIM = 3.4292e-06
+Frame 432: No shot boundary detected.
+Frame 433: MSE = 8743.0645, SSIM = 3.3858e-06
+Frame 433: No shot boundary detected.
+Frame 434: MSE = 8763.4707, SSIM = 3.3195e-06
+Frame 434: No shot boundary detected.
+Frame 435: MSE = 8711.6807, SSIM = 3.3584e-06
+Frame 435: No shot boundary detected.
+Frame 436: MSE = 8754.9307, SSIM = 3.2813e-06
+Frame 436: No shot boundary detected.
+Frame 437: MSE = 8746.71, SSIM = 3.2264e-06
+Frame 437: No shot boundary detected.
+Frame 438: MSE = 8817.835, SSIM = 3.124e-06
+Frame 438: No shot boundary detected.
+Frame 439: MSE = 8813.252, SSIM = 3.0909e-06
+Frame 439: No shot boundary detected.
+Frame 440: MSE = 8817.5156, SSIM = 3.0972e-06
+Frame 440: No shot boundary detected.
+Frame 441: MSE = 8784.5605, SSIM = 3.122e-06
+Frame 441: No shot boundary detected.
+Frame 442: MSE = 8842.6797, SSIM = 2.9685e-06
+Frame 442: No shot boundary detected.
+Frame 443: MSE = 8840.1572, SSIM = 3.027e-06
+Frame 443: No shot boundary detected.
+Frame 444: MSE = 8850.4385, SSIM = 2.8666e-06
+Frame 444: No shot boundary detected.
+Frame 445: MSE = 8815.5322, SSIM = 2.7725e-06
+Frame 445: No shot boundary detected.
+Frame 446: MSE = 8860.2129, SSIM = 2.6241e-06
+Frame 446: No shot boundary detected.
+Frame 447: MSE = 8843.4121, SSIM = 2.3453e-06
+Frame 447: No shot boundary detected.
+Frame 448: MSE = 8866.3623, SSIM = 2.2125e-06
+Frame 448: No shot boundary detected.
+Frame 449: MSE = 8824.9453, SSIM = 2.5019e-06
+Frame 449: No shot boundary detected.
+Frame 450: MSE = 8761.6182, SSIM = 2.8362e-06
+Frame 450: No shot boundary detected.
+Frame 451: MSE = 8654.6865, SSIM = 2.806e-06
+Frame 451: No shot boundary detected.
+Frame 452: MSE = 7295.1079, SSIM = 4.3396e-06
+Frame 452: No shot boundary detected.
+Frame 453: MSE = 6183.7202, SSIM = 5.2288e-06
+Frame 453: No shot boundary detected.
+Frame 454: MSE = 5190.0957, SSIM = 5.8758e-06
+Frame 454: No shot boundary detected.
+Frame 455: MSE = 4136.8066, SSIM = 8.0372e-06
+Frame 455: No shot boundary detected.
+Frame 456: MSE = 3332.8752, SSIM = 8.8864e-06
+Frame 456: No shot boundary detected.
+Frame 457: MSE = 2643.7607, SSIM = 1.1561e-05
+Frame 457: No shot boundary detected.
+Frame 458: MSE = 1945.4805, SSIM = 1.5093e-05
+Frame 458: No shot boundary detected.
+Frame 459: MSE = 1352.8412, SSIM = 1.7615e-05
+Frame 459: No shot boundary detected.
+Frame 460: MSE = 999.6957, SSIM = 2.2985e-05
+Frame 460: No shot boundary detected.
+Frame 461: MSE = 651.8933, SSIM = 3.8931e-05
+Frame 461: No shot boundary detected.
+Frame 462: MSE = 398.0668, SSIM = 6.1177e-05
+Frame 462: No shot boundary detected.
+Frame 463: MSE = 186.488, SSIM = 0.00010345
+Frame 463: No shot boundary detected.
+Frame 464: MSE = 69.0486, SSIM = 0.00021707
+Frame 464: No shot boundary detected.
+Frame 465: MSE = 1.5836, SSIM = 0.14953
+Frame 465: No shot boundary detected.
+Frame 466: MSE = 0.011918, SSIM = 0.98339
+Frame 466: Shot boundary detected (fade-out).
+Frame 467: MSE = 0.011918, SSIM = 0.98339
+Frame 467: Shot boundary detected (fade-out).
+Frame 468: MSE = 0.011918, SSIM = 0.98339
+Frame 468: Shot boundary detected (fade-out).
+Frame 469: MSE = 160.8752, SSIM = 3.856e-06
+Frame 469: No shot boundary detected.
+Frame 470: MSE = 668.2432, SSIM = 1.8394e-06
+Frame 470: No shot boundary detected.
+Frame 471: MSE = 1683.4941, SSIM = 1.1188e-06
+Frame 471: No shot boundary detected.
+Frame 472: MSE = 3204.1299, SSIM = 8.1809e-07
+Frame 472: No shot boundary detected.
+Frame 473: MSE = 5369.1245, SSIM = 6.2533e-07
+Frame 473: No shot boundary detected.
+Frame 474: MSE = 8061.5024, SSIM = 5.0449e-07
+Frame 474: No shot boundary detected.
+Frame 475: MSE = 11682.1289, SSIM = 4.1947e-07
+Frame 475: No shot boundary detected.
+Frame 476: MSE = 15929.0967, SSIM = 3.5602e-07
+Frame 476: No shot boundary detected.
+Frame 477: MSE = 21039.8184, SSIM = 3.0993e-07
+Frame 477: No shot boundary detected.
+Frame 478: MSE = 26963.2871, SSIM = 2.5483e-07
+Frame 478: No shot boundary detected.
+Frame 479: MSE = 33831.0898, SSIM = 2.4475e-07
+Frame 479: No shot boundary detected.
+Frame 480: MSE = 36202.7969, SSIM = 2.3002e-07
+Frame 480: No shot boundary detected.
+Frame 481: MSE = 36173.0781, SSIM = 2.3002e-07
+Frame 481: No shot boundary detected.
+Frame 482: MSE = 36253.7617, SSIM = 2.3002e-07
+Frame 482: No shot boundary detected.
+Frame 483: MSE = 36204.0742, SSIM = 2.3002e-07
+Frame 483: No shot boundary detected.
+Frame 484: MSE = 36242.0664, SSIM = 2.3002e-07
+Frame 484: No shot boundary detected.
+Frame 485: MSE = 36176.6836, SSIM = 2.3002e-07
+Frame 485: No shot boundary detected.
+Frame 486: MSE = 36166.9414, SSIM = 2.3002e-07
+Frame 486: No shot boundary detected.
+Frame 487: MSE = 36029.6406, SSIM = 2.3002e-07
+Frame 487: No shot boundary detected.
+Frame 488: MSE = 36036.9492, SSIM = 2.3002e-07
+Frame 488: No shot boundary detected.
+Frame 489: MSE = 35984.0469, SSIM = 2.3002e-07
+Frame 489: No shot boundary detected.
+Frame 490: MSE = 36010.9453, SSIM = 2.3002e-07
+Frame 490: No shot boundary detected.
+Frame 491: MSE = 35949.4414, SSIM = 2.3002e-07
+Frame 491: No shot boundary detected.
+Frame 492: MSE = 35989.4336, SSIM = 2.3002e-07
+Frame 492: No shot boundary detected.
+Frame 493: MSE = 35951.5938, SSIM = 2.3002e-07
+Frame 493: No shot boundary detected.
+Frame 494: MSE = 36002.0117, SSIM = 2.3002e-07
+Frame 494: No shot boundary detected.
+Frame 495: MSE = 35955.1016, SSIM = 2.3002e-07
+Frame 495: No shot boundary detected.
+Frame 496: MSE = 36000.8984, SSIM = 2.3002e-07
+Frame 496: No shot boundary detected.
+Frame 497: MSE = 35971.4141, SSIM = 2.3002e-07
+Frame 497: No shot boundary detected.
+Frame 498: MSE = 36022.0664, SSIM = 2.3002e-07
+Frame 498: No shot boundary detected.
+Frame 499: MSE = 35975.3164, SSIM = 2.3002e-07
+Frame 499: No shot boundary detected.
+Frame 500: MSE = 36022.1055, SSIM = 2.3002e-07
+Frame 500: No shot boundary detected.
+Frame 501: MSE = 35992.4688, SSIM = 2.3002e-07
+Frame 501: No shot boundary detected.
+Frame 502: MSE = 36043.8281, SSIM = 2.3002e-07
+Frame 502: No shot boundary detected.
+Frame 503: MSE = 35995.9219, SSIM = 2.3002e-07
+Frame 503: No shot boundary detected.
+Frame 504: MSE = 36042.3633, SSIM = 2.3002e-07
+Frame 504: No shot boundary detected.
+Frame 505: MSE = 36016.793, SSIM = 2.3002e-07
+Frame 505: No shot boundary detected.
+Frame 506: MSE = 36066.418, SSIM = 2.3002e-07
+Frame 506: No shot boundary detected.
+Frame 507: MSE = 36022.3516, SSIM = 2.3002e-07
+Frame 507: No shot boundary detected.
+Frame 508: MSE = 36065.5156, SSIM = 2.3002e-07
+Frame 508: No shot boundary detected.
+Frame 509: MSE = 36037.7227, SSIM = 2.3002e-07
+Frame 509: No shot boundary detected.
+Frame 510: MSE = 36090.6719, SSIM = 2.3002e-07
+Frame 510: No shot boundary detected.
+Frame 511: MSE = 36049.7227, SSIM = 2.3002e-07
+Frame 511: No shot boundary detected.
+Frame 512: MSE = 36088.0664, SSIM = 2.3002e-07
+Frame 512: No shot boundary detected.
+Frame 513: MSE = 36054.5508, SSIM = 2.3002e-07
+Frame 513: No shot boundary detected.
+Frame 514: MSE = 36084.3516, SSIM = 2.3002e-07
+Frame 514: No shot boundary detected.
+Frame 515: MSE = 36125.7031, SSIM = 2.3002e-07
+Frame 515: No shot boundary detected.
+Frame 516: MSE = 36113.1484, SSIM = 2.3002e-07
+Frame 516: No shot boundary detected.
+Frame 517: MSE = 36116.4648, SSIM = 2.3002e-07
+Frame 517: No shot boundary detected.
+Frame 518: MSE = 36104.3945, SSIM = 2.3002e-07
+Frame 518: No shot boundary detected.
+Frame 519: MSE = 36133.2031, SSIM = 2.3002e-07
+Frame 519: No shot boundary detected.
+Frame 520: MSE = 36129.6445, SSIM = 2.3002e-07
+Frame 520: No shot boundary detected.
+Frame 521: MSE = 36128.0312, SSIM = 2.3002e-07
+Frame 521: No shot boundary detected.
+Frame 522: MSE = 36108.9414, SSIM = 2.3002e-07
+Frame 522: No shot boundary detected.
+Frame 523: MSE = 36138.3867, SSIM = 2.3002e-07
+Frame 523: No shot boundary detected.
+Frame 524: MSE = 36131.4219, SSIM = 2.3002e-07
+Frame 524: No shot boundary detected.
+Frame 525: MSE = 36123.5742, SSIM = 2.3002e-07
+Frame 525: No shot boundary detected.
+Frame 526: MSE = 36098.2812, SSIM = 2.3002e-07
+Frame 526: No shot boundary detected.
+Frame 527: MSE = 36160.2734, SSIM = 2.3002e-07
+Frame 527: No shot boundary detected.
+Frame 528: MSE = 36150.8438, SSIM = 2.3002e-07
+Frame 528: No shot boundary detected.
+Frame 529: MSE = 36138.3086, SSIM = 2.3002e-07
+Frame 529: No shot boundary detected.
+Frame 530: MSE = 36133.3945, SSIM = 2.3002e-07
+Frame 530: No shot boundary detected.
+Frame 531: MSE = 36173.207, SSIM = 2.3002e-07
+Frame 531: No shot boundary detected.
+Frame 532: MSE = 36168.25, SSIM = 2.3002e-07
+Frame 532: No shot boundary detected.
+Frame 533: MSE = 36171.1523, SSIM = 2.3002e-07
+Frame 533: No shot boundary detected.
+Frame 534: MSE = 36169.75, SSIM = 2.3002e-07
+Frame 534: No shot boundary detected.
+Total fade-out frames detected: 29
+Indices of detected frames:
+  Columns 1 through 25
+
+    68    69    70    71    72    73    74   148   149   150   228   229   230   306   307   308   309   310   311   312   386   387   388   389   390
+
+  Columns 26 through 29
+
+   391   466   467   468
+
+Precision: 0.69
+Recall: 0.07
+F1 Score: 0.13
+Confusion Matrix:
+    20     9
+   255   250
+
+
+(Where I calculate the value of the shot_test.mp4 file)

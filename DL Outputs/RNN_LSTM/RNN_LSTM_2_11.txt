@@ -1,0 +1,47 @@
+>> dl_rnn_lstm_ass1
+Total frames extracted: 106
+Size of X (features x samples): 150528     106
+Size of Y (samples): 106    1
+Performance Metrics on Validation Set:
+F1 Score: 1
+Precision: 1
+Recall: 1
+Total frames extracted for prediction: 33
+Predictions:
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+     0 
+
+Detected Fade-Out Frames at Indices:
+
+(Where I calculate the value of the 11.mp4 file)
