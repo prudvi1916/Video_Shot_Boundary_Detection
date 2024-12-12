@@ -47,12 +47,12 @@ Shot boundary detection identifies the transitions between shots in a video. Acc
 
 - **Description:** Compares the histograms of consecutive frames to detect transitions.
 - **Implementation:** Measures the histogram similarity using metrics like Bhattacharyya or Chi-Square distance.
+![Screenshot 2024-12-12 222026](https://github.com/user-attachments/assets/07138850-8ab9-46c4-8b5f-df498e9383bf)
 
 #### 2. Pixel Difference
 
 - **Description:** Computes the pixel-wise intensity difference between frames.
 - **Implementation:** Calculates the absolute difference and thresholds significant changes.
-- 
 ![Screenshot 2024-12-12 221841](https://github.com/user-attachments/assets/1e66672b-8188-43a4-9c7d-470c17dd6b8e)
 
 **Resources:**
@@ -66,11 +66,13 @@ Shot boundary detection identifies the transitions between shots in a video. Acc
 
 - **Description:** Extracts spatial features from video frames to detect transitions.
 - **Architecture:** Includes convolutional layers followed by fully connected layers.
+![Screenshot 2024-12-12 222107](https://github.com/user-attachments/assets/141a27e9-3a7f-4e1d-84c9-48274d1f2279)
 
-#### 4. Recurrent Neural Networks (RNN)
+#### 4. recurrent Neural Networks (RNN)
 
 - **Description:** Models the temporal dependencies in video sequences.
 - **Architecture:** Utilizes LSTM or GRU cells for sequential frame analysis.
+![Screenshot 2024-12-12 222211](https://github.com/user-attachments/assets/4e068e54-617f-4c01-9e0c-fac63e880a61)
 
 **Resources:**
 
