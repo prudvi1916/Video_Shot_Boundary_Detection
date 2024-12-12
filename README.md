@@ -19,6 +19,7 @@ This repository demonstrates various methods for **Video Shot Boundary Detection
 5. [Results](#results)
 6. [Getting Started](#getting-started)
 7. [References](#references)
+8. [Visualization Example](#visualization-example)
 
 ---
 
@@ -31,6 +32,7 @@ Shot boundary detection identifies the transitions between shots in a video. Acc
 - **Source:** Publicly available video datasets (e.g., TRECVID, YouTube datasets).
 - **Annotations:** Transition labels (cut, fade, dissolve, etc.)
 - Preprocessed into frames and labeled for training and testing.
+- **Access the dataset here:** [Dataset Drive Link](https://drive.google.com/drive/folders/1O7meiXuVUgKlNHGFYmoJ1ZX7IoWCxzVj?usp=drive_link)
 
 ---
 
@@ -45,6 +47,10 @@ Shot boundary detection identifies the transitions between shots in a video. Acc
 - **Description:** Computes the pixel-wise intensity difference between frames.
 - **Implementation:** Calculates the absolute difference and thresholds significant changes.
 
+**Resources:**
+- [Traditional Methods Drive Link](https://drive.google.com/drive/folders/1-cri3JvbEtt6RfzwttKJe12qNEyggPFG?usp=drive_link)
+- [Traditional Methods Outputs Drive Link](https://drive.google.com/drive/folders/1RlJ7N2PIF3-YJbeG6KX23Ccbp05By42H?usp=drive_link)
+
 ### Deep Learning Methods
 #### 3. Convolutional Neural Networks (CNN)
 - **Description:** Extracts spatial features from video frames to detect transitions.
@@ -54,12 +60,16 @@ Shot boundary detection identifies the transitions between shots in a video. Acc
 - **Description:** Models the temporal dependencies in video sequences.
 - **Architecture:** Utilizes LSTM or GRU cells for sequential frame analysis.
 
+**Resources:**
+- [Deep Learning Methods Drive Link](https://drive.google.com/drive/folders/10RBtSPGyZeeGnhxGMFrAedLSG563Emfk?usp=sharing)
+- [Deep Learning Outputs Drive Link](https://drive.google.com/drive/folders/13fW_Bl856KteebiND1REqpJOm1V4phip?usp=drive_link)
+
 ---
 
 ## Implementation
 
 ### Histogram Difference Method
-This MATLAB implementation detects shot boundaries by calculating the histogram difference between consecutive video frames. 
+This MATLAB implementation detects shot boundaries by calculating the histogram difference between consecutive video frames.
 
 - **Steps:**
   1. Load the video file and extract the total number of frames.
@@ -71,7 +81,7 @@ This MATLAB implementation detects shot boundaries by calculating the histogram 
   The differences are plotted to visualize spikes, which correspond to shot boundaries. Red markers indicate detected transitions.
 
 ### Pixel Difference Method
-This MATLAB implementation uses pixel intensity differences to detect shot boundaries. 
+This MATLAB implementation uses pixel intensity differences to detect shot boundaries.
 
 - **Steps:**
   1. Resize each grayscale frame to a smaller matrix size (e.g., 5x5) to simplify computations.
@@ -110,8 +120,6 @@ This MATLAB implementation uses pixel intensity differences to detect shot bound
 ### Prerequisites
 - MATLAB R2021a or later
 - Python 3.8+
-- TensorFlow/PyTorch
-- OpenCV
 
 ### Installation
 ```bash
@@ -132,10 +140,18 @@ To run the traditional methods:
 2. Replace the `videoPath` variable with the path to your video file.
 3. Execute the script to detect and visualize shot boundaries.
 
+**Resources:**
+- [Traditional Methods Drive Link](https://drive.google.com/drive/folders/1-cri3JvbEtt6RfzwttKJe12qNEyggPFG?usp=drive_link)
+- [Traditional Methods Outputs Drive Link](https://drive.google.com/drive/folders/1RlJ7N2PIF3-YJbeG6KX23Ccbp05By42H?usp=drive_link)
+
 #### Running Deep Learning Methods
 1. Preprocess the dataset into labeled frames.
 2. Train the CNN or RNN model using the provided architecture.
 3. Evaluate the model on the test set.
+
+**Resources:**
+- [Deep Learning Methods Drive Link](https://drive.google.com/drive/folders/10RBtSPGyZeeGnhxGMFrAedLSG563Emfk?usp=sharing)
+- [Deep Learning Outputs Drive Link](https://drive.google.com/drive/folders/13fW_Bl856KteebiND1REqpJOm1V4phip?usp=drive_link)
 
 ---
 
@@ -145,5 +161,12 @@ To run the traditional methods:
 
 ---
 
-### Visualization Example
-Add a folder named `Results` to the repository to upload and store detected boundary visualization images.
+## Visualization Example
+Create a folder named `Results` in the repository to store and visualize detected boundary images. This folder will contain:
+1. Processed frames highlighting shot boundaries.
+2. Plots showing the spikes in differences (for histogram and pixel methods).
+
+To upload and visualize these images, you can:
+- Use platforms like [Imgur](https://imgur.com) or [Google Drive](https://drive.google.com) for public sharing.
+- Add these images to a web page or presentation to showcase your findings.
+
