@@ -1,4 +1,4 @@
-# Video Shot Boundary Detection hj k5 6m  m7 k6
+# Video Shot Boundary Detection hj k5 6m  m7 k6 mu
 
 This repository demonstrates various methods for **Video Shot Boundary Detection**, encompassing both traditional and deep learning techniques. It includes:
 
