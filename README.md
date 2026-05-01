@@ -1,4 +1,4 @@
-# Video Shot Boundary Detection nt gmn he bt ng bs bd
+# Video Shot Boundary Detection nt gmn he bt ng bs bd x 
 
 This repository demonstrates various methods for **Video Shot Boundary Detection**, encompassing both traditional and deep learning techniques. It includes:
 
