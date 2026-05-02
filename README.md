@@ -1,4 +1,4 @@
-# Video Shot Boundary Detection mb ga ag ab ar arb af afr 4F rb rvb rf rc RV RVb
+# Video Shot Boundary Detection mb ga ag ab ar arb af afr 4F rb rvb rf rc RV RVb gat
 This repository demonstrates various methods for **Video Shot Boundary Detection**, encompassing both traditional and deep learning techniques. It includes:
 
 1. **Traditional Methods:**
