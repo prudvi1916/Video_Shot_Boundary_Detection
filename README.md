@@ -1,4 +1,4 @@
-# Video Shot Boundary Detection 
+# Video Shot Boundary Detection  eg
 This repository demonstrates various methods for **Video Shot Boundary Detection**, encompassing both traditional and deep learning techniques. It includes:
 
 1. **Traditional Methods:**
